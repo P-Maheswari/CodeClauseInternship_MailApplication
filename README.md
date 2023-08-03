@@ -10,3 +10,9 @@ Exit from the application button helps to come out of the Mail Application Windo
 3.**Network Issues:** If there are network connectivity problems, smtplib.SMTPConnectError or smtplib.SMTPServerDisconnected errors may occur.<br>
 4.**Firewall or Proxy Restrictions:** Firewalls or proxy servers might block the connection to the SMTP server, leading to smtplib.SMTPConnectError or other connection-related errors.<br>
 5.**SMTP Server Settings:** The SMTP server address or port might be incorrect, causing smtplib.SMTPConnectError.<br>
+
+The GUI can be appear as follows:<br>![mail_application_github](https://github.com/P-Maheswari/CodeClauseInternship_MailApplication/assets/85430368/0fa1dcfc-3cce-42b5-b805-ec98b2b2dd57)
+
+**The working demonstartion can be in the following link**<br>
+https://www.linkedin.com/posts/pitta-maheswari-60b52019b_codeclause-pythondevelopment-internship-activity-7092829177279643649-CXgR?utm_source=share&utm_medium=member_desktop
+
